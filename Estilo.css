@@ -1,0 +1,212 @@
+body {
+background-color:burlywood; 
+color: black;
+margin-top: 0px; 
+}
+
+/*Propiedades de los contenedores DIV */
+/*--------------------------------------------------------------------------------------------*/
+
+#header {
+height: 100px;
+width: 1000px;
+background-color: brown;
+margin: auto;
+
+border-color: white;
+border-width: 2px;
+border-style: solid;
+margin-bottom: 5px;
+    
+}
+
+.banner{
+margin: auto;
+}
+
+#menu {
+height: 40px;
+width: 1000px;
+background-color:cadetblue;
+margin: auto;
+
+border-color: white;
+border-width: 2px;
+border-style: solid;
+margin-bottom: 5px;
+}
+
+#contenedor {
+height: 1500px;
+width: 1000px;
+background-color:darkkhaki;
+margin: auto;
+
+border-color: white;
+border-width: 2px;
+border-style: solid;
+
+    
+}
+
+#footer {
+height: 150px;
+width: 1000px;
+background-color: black;
+margin: auto;
+    
+border-color: white;
+border-width: 2px;
+border-style: dashed;
+
+}
+
+.info {
+color: white;
+text-align: center;
+font-family: cursive;
+font-size: 25px;
+padding-top: 10px; 
+}
+
+.titulo{
+color: crimson;
+}
+/*------------------------------------------------------------------------------------------------*/
+
+/* propiedades de los elementos que contiene el div del Menu*/
+/*------------------------------------------------------------------------------------------------*/
+.boton1{
+margin-top: 0px;
+padding-left: 50px;
+padding-top:1px;
+    
+
+}
+
+.ini {
+color: white;
+text-decoration: none;
+font-size: 20px;
+font-family:cursive; 
+
+}
+.ini:hover {
+color: blue;
+font-size: 23px;
+}
+
+.ini2 {
+color: white;
+text-decoration: none;
+font-size: 20px;
+font-family:cursive; 
+margin: 20px;
+}
+.ini2:hover {
+color: blue;
+font-size: 23px;
+}
+
+
+.ini3 {
+color: white;
+text-decoration: none;
+font-size: 20px;
+font-family:cursive; 
+margin: 20px;
+}
+.ini3:hover {
+color: blue;
+font-size: 23px;
+}
+
+
+.ini4 {
+color: white;
+text-decoration: none;
+font-size: 20px;
+font-family:cursive; 
+margin: 20px;
+}
+.ini4:hover {
+color: blue;
+font-size: 23px;
+}
+
+.ini5 {
+color: white;
+text-decoration: none;
+font-size: 20px;
+font-family:cursive; 
+margin: 20px;
+}
+.ini5:hover {
+color: blue;
+font-size: 23px;
+}
+
+.ini6 {
+color: white;
+text-decoration: none;
+font-size: 20px;
+font-family:cursive; 
+margin: 20px;
+}
+.ini6:hover {
+color: blue;
+font-size: 23px;
+}
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+
+
+a {
+color: brown;
+}
+
+.imagen1{
+margin-left: 300px;
+
+}
+
+h1 {
+text-align: center;
+
+}
+h2 {
+text-align: center
+}
+
+
+.parrafo1{
+text-align: center;
+color:darkslategray;
+
+
+}
+.parrafo2{
+text-align: center;
+color:darkslategray;
+
+
+}
+.parrafo3{
+text-align: center;
+color: darkslategray;
+
+
+}
+
+.parrafo4{
+text-align: center;
+color: darkslategray;
+
+
+}
+
+.video1{
+padding-left: 300px;
+
+}
